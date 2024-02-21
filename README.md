@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working on [Blog advance](https://github.com/mohammadparsa82/Django-Advance-Blog.git)
 
-- 🌱 I’m currently learning **Django Frameworke**
+- 🌱 I’m currently learning **Django Frameworke and Machine Learing**
 
 - 👨‍💻 All of my projects are available at [https://github.com/mohammadparsa82](https://github.com/mohammadparsa82)
 
