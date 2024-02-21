@@ -1,11 +1,11 @@
 <h1 align="center">Hi 👋, I'm mohammad</h1>
 <h3 align="center">A passionate backend and software developer from iran</h3>
-
+<img align="right" alt"mohammad" width="400" src="https://mir-s3-cdn-cf.behance.net/project_modules/hd/06f21a161921919.63cd7887d0a70.gif"
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mohammadparsa82&label=Profile%20views&color=0e75b6&style=flat" alt="mohammadparsa82" /> </p>
 
 - 🔭 I’m currently working on [Blog advance](https://github.com/mohammadparsa82/Django-Advance-Blog.git)
 
-- 🌱 I’m currently learning **Django Frameworke and Machine Learning**
+- 🌱 I’m currently learning **Django Frameworke**
 
 - 👨‍💻 All of my projects are available at [https://github.com/mohammadparsa82](https://github.com/mohammadparsa82)
 
